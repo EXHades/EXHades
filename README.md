@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - My usual ID is EXHades or AG（Elemental Silver）
 - Love Coding,interested in APT(Advanced Persistent Threat), PL and AI.
 - I am not a native English speaker, so please excuse any language mistakes.
-- 🤔 I am Now a Pythonist. but might become a Gopher(golang) or Rustaceans(rust) in the future.
