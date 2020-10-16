@@ -5,7 +5,6 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python--ffffff.svg?style=social&logo=Python" alt="Python"></a>
 </p>
 
-- Opinions are my own
 - May the symbol with you
 - Security Researcher and Developer
 - My usual ID is EXHades or AG（Elemental Silver）
