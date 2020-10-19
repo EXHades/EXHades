@@ -10,6 +10,7 @@
 - My usual ID is EXHades or AG（Elemental Silver）
 - Love Coding,interested in APT(Advanced Persistent Threat), PL and AI.
 - I am not a native English speaker, so please excuse any language mistakes.
+- TG Channel: [AkashicRecords](https://t.me/EXAkashic)
 
 <!--
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C++--ffffff.svg?style=social&logo=c%2B%2B" alt="C++"></a>
