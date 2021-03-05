@@ -8,7 +8,7 @@
 - May the symbol with you
 - Security Researcher and Developer
 - My usual ID is EXHades or AG（Elemental Silver）
-- Love Coding,interested in APT(Advanced Persistent Threat), PL and AI.
+- Love Coding,interested in APT(Advanced Persistent Threat), PL and AGI.
 - I am not a native English speaker, so please excuse any language mistakes.
 - TG Channel: [AkashicRecords](https://t.me/EXAkashic)
 
