@@ -5,7 +5,8 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python--ffffff.svg?style=social&logo=Python" alt="Python"></a>
 </p>
 
-- May the symbol with you
+- May the symbol with you.
+- Golang/Py3 by day, Rust by night.
 - CyberSecurity Researcher/Developer
 - My usual ID is EXHades / AG(Elemental Silver)
 - Love Coding,interested in APT(Advanced Persistent Threat), PL and AGI.
