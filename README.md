@@ -5,6 +5,7 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python--ffffff.svg?style=social&logo=Python" alt="Python"></a>
 </p>
 
+- If I rest, I "rust".
 - My TG Channel: [AkashicRecords](https://t.me/EXAkashic)
 - Golang/Py3 by day, Rust by night.
 - CyberSecurity Researcher/Developer
