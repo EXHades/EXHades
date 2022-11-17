@@ -9,7 +9,7 @@
 - My TG Channel: [AkashicRecords](https://t.me/EXAkashic)
 - Golang/Py3 by day, Rust by night.
 - CyberSecurity Researcher/Developer
-- Interested in Coding / APT(Advanced Persistent Threat) / PL(Programming language) / AGI(Artificial General Intelligence)
+- Exploring new possibilities and potentials in the CyberSecurity field. Committed to APT(Advanced Persistent Threat) tracking.
 
 <!--
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C++--ffffff.svg?style=social&logo=c%2B%2B" alt="C++"></a>
