@@ -6,7 +6,6 @@
 </p>
 
 - If I rest, I "rust".
-- My TG Channel: [AkashicRecords](https://t.me/EXAkashic)
 - Golang/Py3 by day, Rust by night.
 - CyberSecurity Researcher/Developer
 - Exploring new possibilities and potentials in the CyberSecurity field. Committed to APT(Advanced Persistent Threat) tracking.
